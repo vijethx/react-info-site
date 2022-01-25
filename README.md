@@ -2,6 +2,8 @@
 
 This is a simple static React app displaying some facts about ReactJS
 
+![ReactFacts App](./ReactFacts.png "ReactFacts")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
